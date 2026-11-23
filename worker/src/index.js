@@ -27,7 +27,7 @@ const MAX_VUELTAS = 8;             // consultas encadenadas como máximo por pre
 const MAX_PUNTOS = 120;            // puntos por consulta de serie
 
 const ORIGENES = ["https://josehino.github.io", "http://localhost:8765", "http://127.0.0.1:8765"];
-const BASE_DATOS = "https://josehino.github.io/observatorio-economico-marbella/data/";
+const BASE_DATOS = "https://ammaconsulting.github.io/observatorio-economico-marbella/data/";
 
 const REGLAS = `Reglas que no puedes saltarte:
 - Usa EXCLUSIVAMENTE datos del observatorio. No añadas cifras de tu memoria, de otros municipios ni estimaciones propias. Si algo no está en los datos, dilo con claridad ("el observatorio no dispone de ese dato").
