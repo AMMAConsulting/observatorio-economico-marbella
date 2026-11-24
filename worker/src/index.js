@@ -26,7 +26,7 @@ const MAX_PREGUNTA = 600;
 const MAX_VUELTAS = 8;             // consultas encadenadas como máximo por pregunta
 const MAX_PUNTOS = 120;            // puntos por consulta de serie
 
-const ORIGENES = ["https://josehino.github.io", "http://localhost:8765", "http://127.0.0.1:8765"];
+const ORIGENES = ["https://ammaconsulting.github.io", "https://josehino.github.io", "http://localhost:8765", "http://127.0.0.1:8765"];
 const BASE_DATOS = "https://ammaconsulting.github.io/observatorio-economico-marbella/data/";
 
 const REGLAS = `Reglas que no puedes saltarte:
